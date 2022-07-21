@@ -1,0 +1,32 @@
+{
+	"appDesc": {
+        "message": "Your new and improved Roblox experience"
+    },
+    "settingsInfo": {
+        "message": "Info"
+    },
+    "settingsBasic": {
+        "message": "Basic"
+    },
+    "settingsFriends": {
+        "message": "Friends"
+    },
+    "settingsCatalog": {
+        "message": "Catalog"
+    },
+    "settingsProfiles": {
+        "message": "Profiles"
+    },
+    "settingsGames": {
+        "message": "Games"
+    },
+    "settingsCurrency": {
+        "message": "Currency"
+    },
+    "settingsDevelopment": {
+        "message": "Development"
+    },
+    "settingsExperimental": {
+        "message": "Experimental"
+    }
+}
